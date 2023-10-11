@@ -32,7 +32,10 @@ The School Management System is a Java application that helps manage the operati
 - Use the provided commands in the menu to navigate and interact with the application.
 
 ## Contributors
-- [Your Name](https://github.com/your-username)
+- (https://github.com/mohammedaladhary)
+- k
+- s
+- (https://github.com/5zam)
 
 ## License
 This project is licensed under the Group 1.
